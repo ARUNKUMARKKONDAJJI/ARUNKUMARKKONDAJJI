@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ARUNKUMARK
+- 👋 Hi, I’m @ARUNKUMARKKONDAJJI
 - 👀 I’m interested in VLSI Design and Verification
 - 🌱 I’m currently learning Verilog,System Verilog, UVM, perl,python.
 - 💞️ I’m looking to collaborate on VLSI Semiconductor industries.
