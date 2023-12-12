@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ARUNKUMARKKONDAJJI
-- 👀 I’m interested in VLSI Design and Verification
+- 👋 Hi, I’m @ARUNKUMARK
+- 👀 I’m interested in VLSI Design and Verification Engineer Trainee
 - 🌱 I’m currently learning Verilog,System Verilog, UVM, perl,python.
 - 💞️ I’m looking to collaborate on VLSI Semiconductor industries.
 - 📫 How to reach me arunkumarkkondajji@gmail.com
